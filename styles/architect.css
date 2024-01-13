@@ -271,7 +271,7 @@ main {
 
     nav,
     .teams-container,
-    .sponsore-img-container {
+    .sponsore-img-container, .features-container {
         flex-direction: column;
     }
 
