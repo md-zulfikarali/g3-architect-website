@@ -200,12 +200,22 @@ main {
     color: #ffffff;
     width: 342px;
     padding: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
 
 }
 .ten-years-badge h2{
     font-size: 4rem;
+    margin: 0;
 }
+.ten-years-badge p{
+    font-size: 1.5rem;
 
+}
+.feature-img img{
+    height: 80%;
+}
 
 
 
@@ -247,6 +257,9 @@ main {
         padding-right: 20px;
     }
 
+.feature-img img{
+    width: 100%;
+}
 
 }
 
